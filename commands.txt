@@ -12,6 +12,7 @@
 * touch > creates a new file in the current directory 
 
 * rm > deleting/removing a file
+
 ---------------
 
 * Repository -- like a folder/container that stores files/folders related to a project. It keeps track of the changes made over time.
@@ -31,3 +32,8 @@
 
 *	git status 
 		- displays the current status of your file/folder
+
+*	got add .
+		- adds all modified files in your current directory to the staging area
+*	git add . "filename"
+		- adds a specific file to staging area.
